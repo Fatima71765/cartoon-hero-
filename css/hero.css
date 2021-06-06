@@ -63,7 +63,8 @@ main h2{
 }
 
 main img{
-	max-width: 100%;	
+	max-width: 100%;
+	border: 3px solid #F1D26E; 	
 }
 
 a{
