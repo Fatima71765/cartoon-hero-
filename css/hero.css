@@ -19,19 +19,21 @@ footer p{
 	padding-left: 10px;
 	margin:0px;
 	font-size:20px;
+	text-align: center;
+	color: white;
 }
 
 header p{
 	font-family: 'The Girl Next Door', cursive;
 	font-size: 80px;
-	color: #DCDCDC;
+	color: 	#FFD700;
 	margin: 0px;
 	padding:10px;
 
 }
 
 header img{
-	border-radius: 220px;
+	border-radius: 170px;
 	width: 400px;
 	border: 20px solid;
 	border-color: #C0C0C0;
@@ -51,6 +53,7 @@ main{
 main p{
 	padding-left:10px;
 	line-height: 25px;
+	font-family: Mate SC, cursive;
 }
 
 main h2{
