@@ -34,9 +34,9 @@ header p{
 
 header img{
 	border-radius: 217px;
-	width: 400px;
-	border: 20px solid;
-	border-color: #C0C0C0;
+	width: 434px;
+	border: 30px solid;
+	border-color: #D2A505;
 	margin-top:25px;
 }
 
@@ -44,7 +44,7 @@ main{
 	padding:10px;
 	font-family: 'David Libre', serif;
 	font-size:20px;
-	background-color:white;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
 	margin:0 auto;
 	width:800px;
 	margin: 0 auto;
@@ -96,3 +96,4 @@ footer a{
 }
 body{
 	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
+	}
