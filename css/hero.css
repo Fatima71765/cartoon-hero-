@@ -54,7 +54,7 @@ main p{
 	padding-left:10px;
 	line-height: 25px;
 	font-family: Mate SC, cursive;
-	color: #F1D26E;
+	color: wheat;
 }
 
 main h2{
@@ -98,3 +98,5 @@ footer a{
 body{
 	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
 	}
+body text{
+	color: wheat;
